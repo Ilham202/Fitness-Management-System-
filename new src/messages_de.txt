@@ -1,0 +1,9 @@
+label.customerName=Customer Name in German
+label.contactNumber=Contact Number in German
+label.couponCode=Coupon Code in German
+label.brandName=Television Brand Name in German
+label.displayType=Television Display Type in German
+
+error.customerName.blank=Customer Name cannot be blank in German
+error.contactNumber.blank=Contact Number cannot be blank in German
+error.couponCode.positive=Coupon Code can only be positive numbers in German

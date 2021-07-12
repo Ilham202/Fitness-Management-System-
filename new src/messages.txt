@@ -1,0 +1,9 @@
+label.customerName=Customer Name in English
+label.contactNumber=Contact Number in English
+label.couponCode=Coupon Code in English
+label.brandName=Television Brand Name in English
+label.displayType=Television Display Type in English
+
+error.customerName.blank=Customer Name cannot be blank in English
+error.contactNumber.blank=Contact Number cannot be blank in English
+error.couponCode.positive=Coupon Code can only be positive numbers in English
